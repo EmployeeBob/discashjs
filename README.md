@@ -1,3 +1,2 @@
-# bank-bot.js
-
-__HOW TO SETUP__
+# project discash
+## HOW TO RUN
