@@ -19,6 +19,6 @@ if you are either, you are in luck
 
 **run your bot:**
  1. if you have windows, just run *start.bat*
- 2. if you have a different brand:
-     a) 'cd' into your bot's file location
+ 2. if you have a different brand:  
+     a) 'cd' into your bot's file location  
      b) enter *node bot.js* into the terminal
