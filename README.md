@@ -14,6 +14,7 @@ if you are either, you are in luck
 **use your operating system's terminal to:**
   1. 'cd' into your bot's file location
   2. download the following packages from [npm](https://www.npmjs.com/):
+**__________**
       a) sqlite v.1 ( https://www.npmjs.com/package/sqlite )
           ( *npm install sqlite --save* )
       b) discord.js ( https://discord.js.org/#/ )
