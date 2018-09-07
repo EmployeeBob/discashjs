@@ -1,5 +1,6 @@
 # project discash
 
+( for this project, you will need to download [node](https://nodejs.org/en/download/) )  
 this bot is for:
   - lazy people that want a sqlite-based currency bot
   - productive people that want a currency for their server
