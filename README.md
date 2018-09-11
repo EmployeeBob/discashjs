@@ -1,4 +1,4 @@
-# project discash
+# discashjs
 
 ( for this project, you will need to download [node](https://nodejs.org/en/download/) )  
 
